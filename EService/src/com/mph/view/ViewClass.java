@@ -1,4 +1,4 @@
-package com.view;
+package com.mph.view;
 public class ViewClass
 {
 	public static void main(String[] args)
