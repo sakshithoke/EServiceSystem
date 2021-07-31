@@ -1,0 +1,8 @@
+package com.mph.modelclass;
+public class modelClass
+{
+	public static void main(String[] args)
+	{
+		System.out.println("This is a group activity.");
+	}
+}
